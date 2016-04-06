@@ -11,5 +11,9 @@
 	<classpathentry kind="lib" path="D:/dependency/thirdparty/lib/spring-4.1.7/spring-core-4.1.7.RELEASE.jar"/>
 	<classpathentry kind="lib" path="D:/dependency/thirdparty/lib/spring-4.1.7/spring-web-4.1.7.RELEASE.jar"/>
 	<classpathentry kind="lib" path="D:/dependency/thirdparty/lib/spring-4.1.7/spring-expression-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/dependency/thirdparty/lib/spring-4.1.7/spring-aop-4.1.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/dependency/thirdparty/lib/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="D:/Java-softwares/h2/bin/h2-1.4.191.jar"/>
+	<classpathentry kind="lib" path="D:/dependency/thirdparty/lib/commons-pool-1.4.jar"/>
 	<classpathentry kind="output" path="war/WEB-INF/classes"/>
 </classpath>

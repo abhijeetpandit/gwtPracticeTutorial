@@ -1,11 +1,11 @@
 package org.abhi.app5.client.widgets;
 
+import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 
 import org.abhi.app5.client.service.AuditService;
 import org.abhi.app5.client.service.AuditServiceAsync;
-import org.abhi.app5.client.service.impl.AuditServiceImpl;
 import org.abhi.app5.shared.beans.AuditLog;
 
 import com.google.gwt.cell.client.AbstractCell;
